@@ -1,0 +1,9 @@
+.slide_div{
+    height: 580px;
+}
+
+@media only screen and (max-width:687px){
+    .slide_div{
+       height: 30%;
+    }
+}
